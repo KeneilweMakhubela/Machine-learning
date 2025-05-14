@@ -1,0 +1,4 @@
+0 Sad face
+1 Happy face
+2 Thumbs Up
+3 High Five
